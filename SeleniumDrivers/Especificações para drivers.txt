@@ -1,0 +1,1 @@
+Esta pasta deve ser adicionada ao caminho C:/ para permitir que o eclipse exporte o teste para os navegadores Chrome e Firefox.
